@@ -76,7 +76,7 @@ A full-stack web application where users can register, login, upload files, sear
 ---
 
 ### Start the backend server
-- npm run dev
+- node index.js
 
 ---
 
