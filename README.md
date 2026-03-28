@@ -89,3 +89,11 @@ A full-stack web application where users can register, login, upload files, sear
 
 ### Start the frontend server
 - npm run dev
+
+---
+
+### File APIs
+- POST   /api/files/upload
+- GET    /api/files/search
+- PATCH   /api/files/:id/view
+  
