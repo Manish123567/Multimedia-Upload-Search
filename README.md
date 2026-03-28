@@ -119,9 +119,9 @@ You can try the working application online and test the backend APIs here:
 
 ### 🔗 Frontend Demo (Netlify)
 You can try the working application online here: 
-https://app.netlify.com/projects/peppy-dieffenbachia-f3349d/overview
+https://heroic-dasik-6de88c.netlify.app
 
 ### 🔗 Backend API (Render)
 Interact with the deployed backend:  
-https://multimedia-upload-search.onrender.com
+https://multimedia-upload-search-1.onrender.com
   
