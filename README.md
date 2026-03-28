@@ -97,3 +97,13 @@ A full-stack web application where users can register, login, upload files, sear
 - GET    /api/files/search
 - PATCH   /api/files/:id/view
   
+---
+
+### User APIs
+## Register
+- POST   /api/auth/register
+
+## Login
+- POST    /api/auth/login
+
+  
