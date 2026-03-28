@@ -93,8 +93,13 @@ A full-stack web application where users can register, login, upload files, sear
 ---
 
 ### File APIs
+## Upload
 - POST   /api/files/upload
+
+## Search
 - GET    /api/files/search
+
+## Increment
 - PATCH   /api/files/:id/view
   
 ---
