@@ -111,4 +111,17 @@ A full-stack web application where users can register, login, upload files, sear
 ### Login
 - POST    /api/auth/login
 
+---
+
+## 🌐 Live Demo & API
+
+You can try the working application online and test the backend APIs here:
+
+### 🔗 Frontend Demo (Netlify)
+You can try the working application online here: 
+https://app.netlify.com/projects/peppy-dieffenbachia-f3349d/overview
+
+### 🔗 Backend API (Render)
+Interact with the deployed backend:  
+https://multimedia-upload-search.onrender.com
   
