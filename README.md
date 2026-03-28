@@ -60,8 +60,8 @@ A full-stack web application where users can register, login, upload files, sear
   ---
   
 ### Backend Setup
-cd backend
-npm install
+- cd backend
+- npm install
 
 ---
 
@@ -76,16 +76,16 @@ npm install
 ---
 
 ### Start the backend server
-npm run dev
+- npm run dev
 
 ---
 
 ### Frontend Setup
-cd frontend
-cd assesment
-npm install
+- cd frontend
+- cd assesment
+- npm install
 
 ---
 
 ### Start the frontend server
-npm run dev
+- npm run dev
