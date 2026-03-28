@@ -56,10 +56,14 @@ A full-stack web application where users can register, login, upload files, sear
   │   ├─ pages
   │   ├─ app
   │   └─ App.js
+
+  ---
   
 ### Backend Setup
 cd backend
 npm install
+
+---
 
 ### Create a .env file in backend folder with these variables:
 MONGO_URI=your_mongodb_connection_string
@@ -69,13 +73,19 @@ CLOUDINARY_API_SECRET=your_api_secret
 JWT_SECRET=your_jwt_secret
 PORT=5000
 
+---
+
 ### Start the backend server
 npm run dev
+
+---
 
 ### Frontend Setup
 cd frontend
 cd assesment
 npm install
+
+---
 
 ### Start the frontend server
 npm run dev
