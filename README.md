@@ -41,3 +41,18 @@ A full-stack web application where users can register, login, upload files, sear
 ---
 
 ## 📂 Project Structure
+/backend
+  ├─ models
+  ├─ routes
+  ├─ controllers
+  ├─ middleware
+  ├─ config
+  ├─ uploads
+  └─ index.js
+/frontend/assesment
+  ├─ src
+  │   ├─ components
+  │   ├─ features
+  │   ├─ pages
+  │   ├─ app
+  │   └─ App.js
