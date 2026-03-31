@@ -124,4 +124,8 @@ https://heroic-dasik-6de88c.netlify.app
 ### 🔗 Backend API (Render)
 Interact with the deployed backend:  
 https://multimedia-upload-search-1.onrender.com
+
+### 🎥 Demo Video
+👉 [Watch Video] https://drive.google.com/file/d/1g21eWA18VTh5Pof1spEnFyEvmMIot72E/view?usp=sharing
+
   
